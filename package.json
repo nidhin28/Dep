@@ -1,0 +1,12 @@
+{
+  "name": "dep",
+  "version": "1.0.0",
+  "description": "depolyment",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
