@@ -1,9 +1,9 @@
 language: node_js
 node_js: node
-deploy:gorgeous-isle-royale-41994
+deploy:
   provider: heroku
   api_key:
     secure: lD0Wlry1iw/mB2wdMcUkm0sjYiOu8bA5g4VEMJkskLwyWcB62FZmcQWf7YNOI7WTTvwGPXsc+CIey+fOTKhEtOHA/KamMx3xlA/dEcbPNh9yohfstWWJeLwDaAEMvNX+Y3cgb9LgkD9WHk92EAHSpZjQcWbnZgC32wohfFQOgoNbXcD0QI6Zw/ljDJp4Vp87gYun9CYlYP29et3IVAakHrvBeN/UcDEAgAMGtDcB8reM1aexD6gUwoGTc+JC1LiMUAKydoXW8ufoqxrMn+4r2znvwlherE5ALgmDpWMGIcVMFVwfEk/+IICvYgryQI2OajEMBPs7pSqm420o0TQZRiJQvuvL1/UduJ07M4JpDJjYKYybg1hcAErhRFwFLgJkiHIzeTOnKq9Wljok8sTLTCdcir+ETJv1ycsOrDd2mtge0cQfaUt9nLXR+NDDEtS4vu8V5Rpx+mCI5SU9QkBOXFFdbRK95MGmXFfOg1nJQblP2WDEh/gmOPuaT73qsd2CH8wZExWM4hRgkd+4oZaGzySSUh0a8a90GeJoOA6AP7k4yJD6wh1391gEYUni04bRQ5MbyKCBaFUKwLGXcOfmF2/hFk8y0bhWxhRgS+0xf3l0guIhbVqgfU+PVg8U6LC7FqBuwmtsu9cMw6De9/L06Beoc40LsM4gWayqcaPkT5Y=
-  app: shrouded-caverns-77835
+  app: gorgeous-isle-royale-41994
   on:
     repo: nidhin28/Dep
